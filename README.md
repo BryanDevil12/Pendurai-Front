@@ -1,1 +1,1 @@
-# Pendurai-Front
+Frontend do projeto Pendurai de Gestão de Vendas e Fiados
